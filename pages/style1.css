@@ -1,0 +1,17 @@
+.wrapper {
+
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 80px 1fr;
+    grid-gap: 20px;
+}
+
+.float {
+
+}
+
+.float:first-child {
+
+}
